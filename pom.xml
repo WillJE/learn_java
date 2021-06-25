@@ -11,6 +11,9 @@
     <modules>
         <module>concurrent</module>
         <module>redis</module>
+        <module>design_pattern</module>
+        <module>springboot_annotation</module>
+        <module>basic</module>
     </modules>
 
 
